@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scientific-talks",
+  "version": "0.1.1",
+  "description": "Develop and revise scientific talks from chapters to evidence-backed, editable native PowerPoint slides."
+}

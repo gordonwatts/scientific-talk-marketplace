@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scientific Talks"
+  short_description: "Outline, source, build, and revise scientific talks"
+  default_prompt: "Use $scientific-talks to develop or revise my scientific talk, starting from its current files and audience."
+policy:
+  allow_implicit_invocation: true

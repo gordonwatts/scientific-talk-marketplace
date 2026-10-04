@@ -1,0 +1,12 @@
+{
+  "name": "gordon-talks",
+  "interface": { "displayName": "Scientific Talks" },
+  "plugins": [
+    {
+      "name": "scientific-talks",
+      "source": { "source": "local", "path": "./plugins/scientific-talks" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
