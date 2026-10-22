@@ -12,9 +12,19 @@ Vary density deliberately while retaining consistent visual conventions. For a t
 
 Use short bullets, with one nested level where qualifications need it. Keep exact prompts and recorded results intact when they are evidence; put long explanations in notes. Do not require the audience to read an entire paper screenshot to follow the argument.
 
+For a working demonstration, give most of the space to readable output plots, reference comparisons and compact timing tables. Use a few lines to say what I did and what the output establishes; leave extended motivation and implementation detail for the spoken explanation or notes. Keep a qualification visible when omitting it would misrepresent the result.
+
+## Collaboration discussions
+
+Ground overlap in a specific technical connection or scientific need. Shared technology or a possible workload alone does not establish collaboration. Distinguish what we already do together, what interests us, and a short question about a useful next step.
+
+Keep the invitation open and collegial. Ask whether a concrete connection would help; avoid challenging the audience to justify overlap or inventing tasks to fill a collaboration slide. Let candidate activities emerge from discussion unless I want to put forward a specific proposal or closing shortlist.
+
 ## Narrative and repeated patterns
 
 Start with a question the audience cares about, define enough to understand the demonstration, show concrete evidence, explain success and limitation, and broaden to scientific implications. Use a roadmap or quiet section change when it helps the audience change scale. This pattern does not prescribe a subject sequence.
+
+A transition can contain just a short question or section title. Use an explicit Backup divider before supplementary material when it helps distinguish the end of the presentation from reference slides.
 
 An overview can precede enlarged details. Related slides can preserve the same title, prompt or graphic while developing the interpretation. Repeated diagrams and progressive reveals are useful when they maintain orientation. A plot plus commentary should say what the result demonstrates and what it cannot establish. Paper discussions separate the authors' words from presenter interpretation. Backup material should deepen questions raised in the main talk.
 
