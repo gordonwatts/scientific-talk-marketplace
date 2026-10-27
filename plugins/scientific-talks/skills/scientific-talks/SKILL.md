@@ -28,6 +28,8 @@ Bundled profiles (open only when selected): [colloquium style](profiles/talk-typ
 
 Default to human review after the chapter outline, after the slide outline, and after the graphics pass. Present the actual artifact for review, record feedback and completion in `STATE.md`, and continue from it. Review deck drafts by chapter. An explicit request for another cadence or a single pass overrides this default. Revisions can enter at any stage; do not restart the whole process.
 
+For retrospectives after collaborative editing, see [review and contribution guidance](references/revision.md#review-lessons-and-contribute-upstream).
+
 Use PowerPoint as the primary authoring and editing application. Unless supplied, use its built-in default template and layouts, retaining native themes, masters, and placeholders. Apply appearance settings from the selected profiles. Consistent inherited formatting across related slides reduces visual adjustment for the audience. Keep text, equations, and simple diagrams editable. Supporting tools prepare evidence or inspect files; they do not replace native PowerPoint structure with rendered slide images. If native PowerPoint access is unavailable, complete independent preparation and report the limitation before claiming a deck was built or verified there.
 
 ## Find answers cheaply
